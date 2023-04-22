@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 .logout {
   display: block;
   width: 200px;
