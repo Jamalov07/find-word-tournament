@@ -1,2 +1,2 @@
 # find-word-tournament
-Tournament at Najot talim
+Tournament at Najot talim.
