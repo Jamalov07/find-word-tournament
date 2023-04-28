@@ -177,6 +177,7 @@ mediumButton.addEventListener("click", (e) => {
   getStart(2);
 });
 
+
 hardButton.addEventListener("click", (e) => {
   helperModal.classList.add("hidden");
   hardButton.classList.add("bg-green-500");
